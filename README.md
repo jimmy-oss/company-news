@@ -58,7 +58,8 @@ This is a REST API for querying and retrieving news and information within a com
  9.In the terminal, locate the url address showing the spark server port number. For example
  , this can be http://localhost:4567/user
  You can then change the routes to access different pages.
-  
+## License
+MIT License [found here](LICENSE) 2020  
 
 
 
